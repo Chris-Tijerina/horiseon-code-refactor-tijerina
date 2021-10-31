@@ -22,3 +22,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+    Changed the title element from a generic title to the name of the company, in keeping with common convention. I decided to go for more than just the name of the company because a little bit of research showed that it could help the site to be found if someone was looking for "social solutions" and didn't actually type the name of the company. It would make the site more discoverable. 
