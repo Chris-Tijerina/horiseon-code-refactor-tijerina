@@ -16,10 +16,12 @@ THEN I find that the elements follow a logical structure independent of styling 
 WHEN I view the image elements
 THEN I find accessible alt attributes
 
+    Solution: I added the proper descriptive alt text to the first three images that cover the different sections of the site. I left the alt text empty for the the three png icons because they would be deemed redundant to the information provided with them. I went back and forth on this issue before settling on leaving them empty. 
+
 WHEN I view the heading attributes
 THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-    Changed the title element from a generic title to the name of the company, in keeping with common convention. I decided to go for more than just the name of the company because a little bit of research showed that it could help the site to be found if someone was looking for "social solutions" and didn't actually type the name of the company. It would make the site more discoverable. 
+    Solution: Changed the title element from a generic title to the name of the company, in keeping with common convention. I decided to go for more than just the name of the company because a little bit of research showed that it could help the site to be found if someone was looking for "social solutions" and didn't actually type the name of the company. It would make the site more discoverable. 
