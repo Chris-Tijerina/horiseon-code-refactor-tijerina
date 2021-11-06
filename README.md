@@ -2,7 +2,7 @@
 
 ## This week's task was to take an existing source code of a website for a social solutions company called Horiseon and refactor is to meet accesibility standards. 
 
-Website Link: 
+Website Link: https://chris-tijerina.github.io/horiseon-code-refactor-tijerina/#social-media-marketing
 
 The standards set forth by the user were as follows and my steps to resolve them are described below: 
 WHEN I view the source code
