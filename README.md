@@ -1,8 +1,8 @@
-# Code Refactor Starter Code
+# Horiseon - Code Refactor
 
-Horiseon - Code Refactor
+## This week's task was to take an existing source code of a website for a social solutions company called Horiseon and refactor is to meet accesibility standards. 
 
-This weeks task is was take an existing source code of a website for a social solutions company called Hoseon and refactor is to meet accesibility standards. 
+Website Link: 
 
 The standards set forth by the user were as follows and my steps to resolve them are described below: 
 WHEN I view the source code
@@ -14,7 +14,7 @@ THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
 
-    Solution: There was not a lot of issues with the overall structure of the html elements, but some divs were changed to sections in order to better meet accessability standards. 
+    Solution: There was not a lot of issues with the overall structure of the html elements, but some divs were changed to sections in order to better meet accessability standards. I also added id's to the content of the benefits now that they share a class to allow for better CSS selection for individual portions of the section. 
 
 WHEN I view the image elements
 THEN I find accessible alt attributes
